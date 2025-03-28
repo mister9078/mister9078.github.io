@@ -1,9 +1,13 @@
 # mister9078.github.io
 <!DOCTIPE>
-<title>
-  my_site
-</title>
-<head>
-  hello world
+<html>
+  <head>
+    <title>
+      my_site
+    </title>
+    <body>
+      hello world
+    </body>
 </head>
+</html>
 мой первый сайт на гитхаб
